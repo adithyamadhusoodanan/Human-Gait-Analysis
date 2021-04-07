@@ -8,6 +8,6 @@ There are two main approach being followed
 
 Various algorithms were compared and also hyper parameters optimisized for classification models like Support Vector Machines, K Nearest Neighours etc.
 
-##Time Series Classification
+## Time Series Classification
 
 The dataset was converted top time series data by performing sliding window segmentation. Then various LSTM and CNN models were implemented and trained on the datstet and there performance compared.
